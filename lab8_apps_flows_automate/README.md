@@ -7,7 +7,7 @@ Laboratorio de profundización para **todos los participantes**. Parte de lo con
 | | |
 | --- | --- |
 | **Duración** | 75 a 90 minutos (Partes A, B y C de 25 minutos cada una, más 10 minutos de cierre) |
-| **Formato** | En parejas: cada participante construye las tres piezas; su compañero las prueba, las usa y resuelve las tareas de aprobación |
+| **Formato** | Individual: cada participante construye las tres piezas, las prueba y resuelve las tareas de aprobación de su propia automatización |
 | **Resultado** | Un Flow programado, una app publicada y una automatización desplegada con aprobación humana |
 
 ## El caso
@@ -24,7 +24,7 @@ Un almacén sin producto en la góndola es un cliente que quizá no regresa. Cad
 
 - Haber completado el **Lab 3** (Space "Operaciones de almacenes — piloto" con `politicas/`). El **Lab 5** (tablero) y el **Lab 6** (conector de Outlook) hacen más completas las Partes A y B.
 - **Apps en Quick** está disponible en los planes Plus, Professional y Enterprise.
-- **Quick Automate** solo está disponible en cuentas de Quick creadas desde la consola de AWS; no en Free ni Plus. Sin acceso, el facilitador muestra la Parte C como demostración y las parejas siguen la guía en pantalla.
+- **Quick Automate** solo está disponible en cuentas de Quick creadas desde la consola de AWS; no en Free ni Plus. Sin acceso, el facilitador muestra la Parte C como demostración y los participantes siguen la guía en pantalla.
 - Usa solo la cuenta y el buzón de pruebas. Ninguna acción se envía a buzones reales.
 
 ## Archivos de este laboratorio
@@ -104,7 +104,7 @@ Nota: la zona Centro-Oriente tiene 13 SKU bajo el mínimo y varios comparten don
 
 1. En **Run mode**, abre el ícono de programación y elige **Create schedule**: semanal, lunes a las 07:00, zona horaria de Colombia (America/Bogota), con `stock_cierre_2026-10-18.csv` y "Caribe-Pacífico" como entradas por defecto.
 2. Deja **desactivada** la opción **Run with no confirmation**: el correo se revisa antes de enviarse.
-3. Comparte el Flow con tu pareja. Ten en cuenta que el horario es personal y no se comparte; tu pareja debe crear el suyo.
+3. Comparte el Flow con el grupo. Ten en cuenta que el horario es personal y no se comparte; cada persona debe crear el suyo.
 4. Revisa el historial de ejecuciones del Flow.
 
 **Éxito:** el Flow corre de punta a punta para Antioquia-Eje Cafetero y Caribe-Pacífico, rechaza una zona inválida y queda programado sin envío automático.
@@ -149,8 +149,8 @@ Después cierra la app, vuelve a abrirla y confirma que las solicitudes que guar
 
 ### B.4 Publicar
 
-1. Publica la app y compártela con tu pareja.
-2. Tu pareja registra una solicitud nueva y usa el botón de **Resumen**. Después intercambian los roles.
+1. Publica la app y compártela con el grupo.
+2. Registra una solicitud nueva y usa el botón de **Resumen**.
 
 **Éxito:** la app publicada valida los 4 casos de prueba, guarda las solicitudes entre sesiones y genera el resumen con IA.
 
@@ -198,7 +198,7 @@ Detalles que debes configurar:
    - rechaza la solicitud que no es de una categoría crítica;
    - escala las que no tienen donante válido;
    - ajusta la cantidad cuando el mismo donante aparece en dos solicitudes.
-3. Tu pareja resuelve las tareas desde su lista: aprueba una, rechaza otra con comentario y escala una tercera. Verifica que cada caso termine con el estado correcto. Después intercambian los roles.
+3. Resuelve las tareas desde tu lista como gerente regional: aprueba una, rechaza otra con comentario y escala una tercera. Verifica que cada caso termine con el estado correcto.
 
 Resultado esperado del lote:
 
@@ -229,7 +229,7 @@ Son 6 tareas de aprobación (Centro-Oriente 3, Antioquia-Eje Cafetero 2, Caribe-
 
 ## Cierre — ¿Flow, App o Automate?
 
-Cada pareja clasifica estos casos de Grupo Éxito y justifica su elección en una línea:
+Clasifica estos casos de Grupo Éxito y justifica tu elección en una línea:
 
 | Caso | Flow | App | Automate |
 | --- | --- | --- | --- |

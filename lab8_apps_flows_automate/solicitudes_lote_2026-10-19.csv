@@ -1,0 +1,10 @@
+id_solicitud,fecha_solicitud,id_almacen_destino,ciudad_destino,sku,producto,categoria,cantidad_solicitada,id_almacen_donante,motivo,solicitado_por
+SOL-20260019,2026-10-19,SM-BOG-01,Bogotá,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,60,CA-BOG-02,Stock bajo el mínimo,gerente.sm-bog-01@exito-lab.example
+SOL-20260020,2026-10-19,SM-BOG-02,Bogotá,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,45,CA-BOG-02,Stock bajo el mínimo,gerente.sm-bog-02@exito-lab.example
+SOL-20260021,2026-10-19,SM-BOG-01,Bogotá,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,70,CA-BOG-01,Quiebre recurrente,gerente.sm-bog-01@exito-lab.example
+SOL-20260022,2026-10-19,SM-MDE-01,Medellín,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,45,EX-MDE-01,Quiebre recurrente,gerente.sm-mde-01@exito-lab.example
+SOL-20260023,2026-10-19,CA-CLO-01,Cali,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,26,SI-CLO-01,Stock bajo el mínimo,gerente.ca-clo-01@exito-lab.example
+SOL-20260024,2026-10-19,SM-BAQ-01,Barranquilla,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,16,SI-BAQ-01,Stock bajo el mínimo,gerente.sm-baq-01@exito-lab.example
+SOL-20260025,2026-10-19,SI-PEI-01,Pereira,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,16,CA-MDE-01,Stock bajo el mínimo,gerente.si-pei-01@exito-lab.example
+SOL-20260026,2026-10-19,SM-BOG-01,Bogotá,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,20,EX-BOG-01,Exhibición especial,gerente.sm-bog-01@exito-lab.example
+SOL-20260027,2026-10-19,SM-MDE-01,Medellín,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,10,EX-MDE-01,Temporada de lluvias,gerente.sm-mde-01@exito-lab.example

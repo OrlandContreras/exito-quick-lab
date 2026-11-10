@@ -1,0 +1,481 @@
+fecha,id_almacen,nombre_almacen,ciudad,zona_operativa,sku,producto,categoria,stock_final,stock_minimo,bajo_minimo
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,556,322,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,247,204,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,399,242,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,245,161,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,167,140,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,103,108,Sí
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,1107,483,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,284,215,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,238,150,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,171,134,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,185,161,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,540,295,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,CPE-001,Champú 400 ml (Brisa),Cuidado personal,245,118,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,456,215,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,304,188,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,121,75,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,189,118,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,69,54,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,738,322,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,641,295,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,371,188,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,646,375,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,393,242,No
+2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Bogotá,Centro-Oriente,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,222,161,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,0,283,Sí
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,0,179,Sí
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,0,212,Sí
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,193,142,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,233,123,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,117,95,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,667,424,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,478,189,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,179,132,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,144,118,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,224,142,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,398,259,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,CPE-001,Champú 400 ml (Brisa),Cuidado personal,157,104,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,368,189,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,240,165,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,111,66,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,148,104,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,68,48,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,489,283,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,267,259,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,230,165,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,590,330,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,289,212,No
+2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Bogotá,Centro-Oriente,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,209,142,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,220,140,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,124,89,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,211,105,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,146,96,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,146,84,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,117,64,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,443,288,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,147,128,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,184,90,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,122,73,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,179,88,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,172,160,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,CPE-001,Champú 400 ml (Brisa),Cuidado personal,84,64,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,249,117,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,168,102,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,91,41,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,132,64,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,58,30,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,348,175,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,195,160,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,153,102,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,462,224,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,182,144,No
+2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Bogotá,Centro-Oriente,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,218,96,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,298,142,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,200,90,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,174,107,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,82,98,Sí
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,130,85,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,124,65,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,570,293,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,162,130,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,168,91,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,83,74,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,163,89,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,263,163,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,CPE-001,Champú 400 ml (Brisa),Cuidado personal,97,65,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,258,118,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,154,104,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,59,42,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,124,65,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,49,30,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,257,177,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,298,163,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,148,104,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,256,228,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,187,147,No
+2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Bogotá,Centro-Oriente,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,138,98,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,0,104,Sí
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,0,66,Sí
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,0,78,Sí
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,93,46,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,79,40,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,55,31,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,212,136,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,51,61,Sí
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,66,43,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,42,38,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,72,46,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,176,83,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,CPE-001,Champú 400 ml (Brisa),Cuidado personal,52,34,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,139,61,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,88,53,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,42,22,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,68,34,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,25,16,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,151,91,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,115,83,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,98,53,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,191,106,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,133,68,No
+2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Bogotá,Centro-Oriente,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,75,46,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,60,105,Sí
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,150,67,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,90,79,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,43,46,Sí
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,75,40,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,24,31,Sí
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,189,137,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,151,61,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,56,43,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,89,38,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,77,46,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,119,84,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,CPE-001,Champú 400 ml (Brisa),Cuidado personal,76,34,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,77,61,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,104,53,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,25,22,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,83,34,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,32,16,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,160,91,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,100,84,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,72,53,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,217,106,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,90,69,No
+2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Bogotá,Centro-Oriente,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,59,46,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,531,277,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,240,176,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,378,208,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,103,139,Sí
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,207,121,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,182,93,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,614,416,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,262,185,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,196,130,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,146,116,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,134,139,Sí
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,440,254,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,CPE-001,Champú 400 ml (Brisa),Cuidado personal,161,102,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,298,185,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,181,162,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,130,65,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,142,102,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,59,47,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,424,277,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,421,254,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,281,162,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,418,324,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,472,208,No
+2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Bucaramanga,Centro-Oriente,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,211,139,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,161,98,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,134,62,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,117,74,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,52,43,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,40,37,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,39,29,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,174,128,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,81,57,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,49,40,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,47,36,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,52,43,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,78,78,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,CPE-001,Champú 400 ml (Brisa),Cuidado personal,39,32,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,94,57,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,71,50,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,40,20,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,39,32,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,36,15,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,118,85,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,106,78,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,75,50,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,224,100,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,76,64,No
+2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Bucaramanga,Centro-Oriente,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,69,43,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,624,274,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,247,174,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,450,206,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,174,137,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,300,119,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,144,92,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,552,411,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,453,183,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,173,128,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,225,114,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,308,137,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,342,251,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,CPE-001,Champú 400 ml (Brisa),Cuidado personal,211,101,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,263,183,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,263,160,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,86,64,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,147,101,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,72,46,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,636,274,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,372,251,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,319,160,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,669,319,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,318,206,No
+2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Medellín,Antioquia-Eje Cafetero,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,215,137,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,545,287,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,350,182,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,455,215,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,289,144,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,260,125,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,100,96,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,562,430,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,238,191,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,201,134,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,231,120,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,209,144,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,469,263,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,CPE-001,Champú 400 ml (Brisa),Cuidado personal,101,105,Sí
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,316,191,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,286,168,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,126,67,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,253,105,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,108,48,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,471,287,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,340,263,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,385,168,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,442,335,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,406,215,No
+2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Medellín,Antioquia-Eje Cafetero,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,307,144,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,205,135,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,110,85,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,188,101,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,190,93,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,39,80,Sí
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,61,62,Sí
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,370,277,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,238,123,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,112,86,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,103,70,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,96,84,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,275,154,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,CPE-001,Champú 400 ml (Brisa),Cuidado personal,77,62,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,192,112,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,155,98,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,66,40,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,95,62,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,46,28,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,214,168,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,258,154,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,137,98,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,353,215,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,204,139,No
+2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Medellín,Antioquia-Eje Cafetero,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,176,93,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,83,111,Sí
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,153,71,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,144,84,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,39,49,Sí
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,54,42,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,30,33,Sí
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,210,145,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,161,65,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,115,45,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,67,41,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,80,49,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,120,89,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,CPE-001,Champú 400 ml (Brisa),Cuidado personal,47,36,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,123,65,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,121,57,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,37,23,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,81,36,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,28,17,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,178,97,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,106,89,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,82,57,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,178,113,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,165,73,No
+2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Medellín,Antioquia-Eje Cafetero,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,103,49,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,192,97,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,136,62,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,103,73,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,83,43,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,55,37,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,29,29,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,162,127,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,52,57,Sí
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,82,40,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,60,36,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,68,43,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,116,78,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,CPE-001,Champú 400 ml (Brisa),Cuidado personal,51,31,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,82,57,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,91,50,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,19,20,Sí
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,32,31,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,28,15,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,93,85,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,127,78,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,68,50,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,156,99,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,75,64,No
+2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Medellín,Antioquia-Eje Cafetero,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,49,43,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,292,183,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,166,116,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,245,138,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,114,84,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,90,73,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,40,56,Sí
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,425,250,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,257,111,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,187,78,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,86,70,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,138,84,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,296,153,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,CPE-001,Champú 400 ml (Brisa),Cuidado personal,73,61,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,166,111,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,125,98,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,60,39,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,70,61,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,59,28,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,198,167,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,229,153,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,162,98,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,273,195,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,152,125,No
+2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Pereira,Antioquia-Eje Cafetero,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,116,84,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,368,326,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,300,207,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,378,245,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,247,163,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,176,141,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,114,109,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,643,489,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,272,217,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,214,152,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,162,136,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,225,163,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,522,299,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,CPE-001,Champú 400 ml (Brisa),Cuidado personal,210,120,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,323,217,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,327,190,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,127,76,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,197,120,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,64,55,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,575,326,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,327,299,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,240,190,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,667,380,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,390,245,No
+2026-10-18,EX-CLO-01,Éxito Cali Sur,Cali,Caribe-Pacífico,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,210,163,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,100,126,Sí
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,188,80,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,215,94,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,113,87,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,69,75,Sí
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,92,58,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,411,259,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,290,115,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,197,81,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,80,66,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,129,79,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,335,144,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,CPE-001,Champú 400 ml (Brisa),Cuidado personal,99,58,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,124,105,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,139,92,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,41,37,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,91,58,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,57,27,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,242,157,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,199,144,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,144,92,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,317,201,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,195,130,No
+2026-10-18,CA-CLO-01,Carulla Cali Granada,Cali,Caribe-Pacífico,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,88,87,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,420,193,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,311,122,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,398,145,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,107,88,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,99,76,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,58,59,Sí
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,374,263,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,192,117,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,148,82,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,159,73,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,149,88,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,213,161,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,CPE-001,Champú 400 ml (Brisa),Cuidado personal,107,65,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,204,117,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,110,102,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,24,41,Sí
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,104,65,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,39,30,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,415,175,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,259,161,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,193,102,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,419,204,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,194,132,No
+2026-10-18,SI-CLO-01,Super Inter Cali Centro,Cali,Caribe-Pacífico,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,174,88,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,487,324,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,293,206,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,419,243,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,174,162,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,195,141,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,200,108,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,903,486,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,376,216,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,239,152,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,98,135,Sí
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,233,162,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,465,297,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,CPE-001,Champú 400 ml (Brisa),Cuidado personal,181,119,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,303,216,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,308,189,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,127,76,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,245,119,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,89,54,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,462,324,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,449,297,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,324,189,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,513,378,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,426,243,No
+2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Barranquilla,Caribe-Pacífico,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,262,162,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,234,96,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,148,61,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,0,72,Sí
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,79,42,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,43,36,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,64,28,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,288,125,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,40,56,Sí
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,42,39,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,55,35,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,58,42,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,169,77,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,CPE-001,Champú 400 ml (Brisa),Cuidado personal,36,31,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,116,56,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,61,49,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,15,20,Sí
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,37,31,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,16,14,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,161,83,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,96,77,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,78,49,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,102,97,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,66,63,No
+2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Barranquilla,Caribe-Pacífico,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,23,42,Sí
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,301,185,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,206,117,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,290,139,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,110,84,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,93,73,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,106,56,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,491,252,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,140,112,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,158,79,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,97,70,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,147,84,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,232,154,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,CPE-001,Champú 400 ml (Brisa),Cuidado personal,86,62,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,142,112,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,87,98,Sí
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,64,40,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,100,62,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,42,28,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,239,168,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,239,154,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,164,98,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,314,196,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,184,126,No
+2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Barranquilla,Caribe-Pacífico,PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,150,84,No

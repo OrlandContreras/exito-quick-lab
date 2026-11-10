@@ -1,0 +1,25 @@
+sku,producto,categoria,precio_cop,cadena_frio
+ABA-001,Arroz blanco 1 kg (Campo Claro),Abarrotes básicos,5200,No
+ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,14900,No
+ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,4800,No
+DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,21500,No
+DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,12900,No
+DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,6900,No
+LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,4600,Sí
+LAC-002,Yogur natural 1 L (Lácteos del Valle),Lácteos y refrigerados,9800,Sí
+LAC-003,Queso campesino 500 g (Lácteos del Valle),Lácteos y refrigerados,14900,Sí
+ASE-001,Detergente en polvo 2 kg (Hogar Limpio),Aseo del hogar,24900,No
+ASE-002,Lavaplatos en crema 500 g (Hogar Limpio),Aseo del hogar,7900,No
+ASE-003,Papel higiénico x 12 rollos (Hogar Limpio),Aseo del hogar,22900,No
+CPE-001,Champú 400 ml (Brisa),Cuidado personal,16900,No
+CPE-002,Crema dental 100 ml (Brisa),Cuidado personal,6400,No
+CPE-003,Jabón de baño x 3 (Brisa),Cuidado personal,9900,No
+BEB-001,Pañales etapa 3 x 40 (Pequeño Mundo),Bebé,62900,No
+BEB-002,Toallitas húmedas x 80 (Pequeño Mundo),Bebé,11900,No
+BEB-003,Cereal infantil 250 g (Pequeño Mundo),Bebé,14500,No
+BEV-001,Agua sin gas 600 ml x 6 (Manantial),Bebidas,9900,No
+BEV-002,"Gaseosa cola 1,5 L (Sol Naciente)",Bebidas,5900,No
+BEV-003,Jugo de naranja 1 L (Sol Naciente),Bebidas,8500,No
+PAN-001,Pan tajado 450 g (Horno Real),Panadería y galletas,7800,No
+PAN-002,Galletas de soda x 3 paquetes (Horno Real),Panadería y galletas,4500,No
+PAN-003,Mantecadas x 6 (Horno Real),Panadería y galletas,6500,No

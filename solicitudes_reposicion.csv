@@ -1,0 +1,19 @@
+id_solicitud,fecha_solicitud,id_almacen_destino,ciudad,sku,producto,categoria,stock_actual,stock_minimo,cantidad_solicitada,id_almacen_donante,motivo,estado
+SOL-20260001,2026-10-06,CA-BOG-01,Bogotá,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,78,96,18,EX-BOG-02,Stock bajo el mínimo,Completada
+SOL-20260002,2026-10-06,EX-MDE-01,Medellín,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,96,137,41,,Stock bajo el mínimo,Escalada a centro de distribución
+SOL-20260003,2026-10-08,CA-MDE-01,Medellín,ABA-002,Aceite vegetal 1 L (Dorada),Abarrotes básicos,68,85,17,EX-MDE-01,Stock bajo el mínimo,Rechazada
+SOL-20260004,2026-10-08,EX-MDE-02,Medellín,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,90,144,31,SM-MDE-02,Stock bajo el mínimo,Completada
+SOL-20260005,2026-10-08,EX-MDE-02,Medellín,LAC-001,Leche entera refrigerada 1 L (Lácteos del Valle),Lácteos y refrigerados,371,430,59,EX-MDE-01,Stock bajo el mínimo,Rechazada
+SOL-20260006,2026-10-10,SI-PEI-01,Pereira,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,67,73,6,,Stock bajo el mínimo,Escalada a centro de distribución
+SOL-20260007,2026-10-11,SI-BAQ-01,Barranquilla,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,35,56,21,EX-BAQ-01,Stock bajo el mínimo,Completada
+SOL-20260008,2026-10-11,SM-MDE-01,Medellín,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,38,42,4,,Stock bajo el mínimo,Escalada a centro de distribución
+SOL-20260009,2026-10-12,CA-BOG-01,Bogotá,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,57,64,7,SM-BOG-01,Stock bajo el mínimo,Completada
+SOL-20260010,2026-10-12,EX-MDE-01,Medellín,ABA-003,Azúcar blanca 1 kg (Campo Claro),Abarrotes básicos,166,206,40,EX-MDE-02,Stock bajo el mínimo,Completada
+SOL-20260011,2026-10-13,SM-BOG-01,Bogotá,DES-002,Chocolate de mesa 500 g (Casa Serrana),Desayuno y bebidas calientes,34,40,6,EX-BOG-02,Stock bajo el mínimo,Completada
+SOL-20260012,2026-10-13,SM-MDE-02,Medellín,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,34,43,9,EX-MDE-02,Stock bajo el mínimo,Pendiente
+SOL-20260013,2026-10-14,SM-BOG-01,Bogotá,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,30,46,16,CA-BOG-02,Stock bajo el mínimo,Pendiente
+SOL-20260014,2026-10-15,EX-BOG-02,Bogotá,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,92,95,3,EX-BOG-01,Stock bajo el mínimo,Pendiente
+SOL-20260015,2026-10-15,EX-MDE-02,Medellín,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,89,96,7,CA-MDE-01,Stock bajo el mínimo,Pendiente
+SOL-20260016,2026-10-16,SM-MDE-01,Medellín,DES-003,Avena en hojuelas 400 g (Casa Serrana),Desayuno y bebidas calientes,14,33,19,,Stock bajo el mínimo,Escalada a centro de distribución
+SOL-20260017,2026-10-17,EX-BOG-02,Bogotá,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,90,142,52,EX-BOG-01,Stock bajo el mínimo,Pendiente
+SOL-20260018,2026-10-17,SI-PEI-01,Pereira,DES-001,Café molido 500 g (Aroma Andino),Desayuno y bebidas calientes,44,84,40,,Stock bajo el mínimo,Escalada a centro de distribución

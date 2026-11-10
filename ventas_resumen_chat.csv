@@ -1,0 +1,481 @@
+periodo,fecha_inicio,fecha_fin,id_almacen,nombre_almacen,marca,ciudad,categoria,unidades,valor_cop,dias_sku_en_quiebre
+Últimos 30 días,2026-09-19,2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Abarrotes básicos,4804,37222400,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Desayuno y bebidas calientes,3404,50083800,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Lácteos y refrigerados,5192,40414200,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Aseo del hogar,3651,70138900,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Cuidado personal,3208,32046200,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Bebé,1539,42701300,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Bebidas,4939,40097100,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Panadería y galletas,4842,31338900,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Abarrotes básicos,1689,12129100,56
+Últimos 30 días,2026-09-19,2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Desayuno y bebidas calientes,2904,42875000,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Lácteos y refrigerados,4610,35891900,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Aseo del hogar,3338,64723200,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Cuidado personal,2773,28012700,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Bebé,1375,37504500,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Bebidas,4453,36001900,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Panadería y galletas,4347,28329500,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Abarrotes básicos,2085,17353000,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Desayuno y bebidas calientes,2015,31961100,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Lácteos y refrigerados,3205,26989200,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Aseo del hogar,2035,42278100,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Cuidado personal,1822,19761400,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Bebé,867,25785100,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Bebidas,2657,23306200,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Panadería y galletas,2995,21118300,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Abarrotes básicos,2139,17760800,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Desayuno y bebidas calientes,2041,32214900,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Lácteos y refrigerados,3158,26580100,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Aseo del hogar,2106,44234200,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Cuidado personal,1779,19240500,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Bebé,846,24865400,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Bebidas,2828,24830300,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Panadería y galletas,2969,20829200,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Abarrotes básicos,360,2939700,68
+Últimos 30 días,2026-09-19,2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Desayuno y bebidas calientes,951,13202100,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Lácteos y refrigerados,1492,10989500,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Aseo del hogar,1062,19432000,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Cuidado personal,903,8574500,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Bebé,423,10878400,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Bebidas,1392,10724200,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Panadería y galletas,1305,8102000,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Abarrotes básicos,1572,11619300,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Desayuno y bebidas calientes,976,13594500,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Lácteos y refrigerados,1503,11219200,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Aseo del hogar,1052,19215800,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Cuidado personal,936,8882000,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Bebé,444,11743700,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Bebidas,1383,10672300,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Panadería y galletas,1398,8673900,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Abarrotes básicos,4154,31845400,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Desayuno y bebidas calientes,2892,42301600,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Lácteos y refrigerados,4640,35796700,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Aseo del hogar,3237,62083300,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Cuidado personal,2766,27740400,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Bebé,1349,37031700,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Bebidas,4453,35985300,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Panadería y galletas,4287,27862800,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Abarrotes básicos,1430,10442600,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Desayuno y bebidas calientes,876,12316800,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Lácteos y refrigerados,1410,10354300,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Aseo del hogar,1006,18443000,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Cuidado personal,854,8179000,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Bebé,432,10796100,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Bebidas,1328,10226900,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Panadería y galletas,1299,8081300,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Abarrotes básicos,4090,31061900,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Desayuno y bebidas calientes,2891,42309900,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Lácteos y refrigerados,4536,34941300,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Aseo del hogar,3132,59881800,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Cuidado personal,2793,28182700,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Bebé,1318,37042200,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Bebidas,4343,35099700,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Panadería y galletas,4132,26962100,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Abarrotes básicos,4319,33111400,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Desayuno y bebidas calientes,2969,43640900,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Lácteos y refrigerados,4865,37169600,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Aseo del hogar,3276,63182400,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Cuidado personal,2905,29379000,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Bebé,1382,38528200,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Bebidas,4481,36216900,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Panadería y galletas,4362,28322600,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Abarrotes básicos,2008,16630500,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Desayuno y bebidas calientes,1979,31520800,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Lácteos y refrigerados,3042,25354700,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Aseo del hogar,1971,40758900,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Cuidado personal,1696,18337200,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Bebé,828,25144000,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Bebidas,2672,23498800,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Panadería y galletas,2775,19437600,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Abarrotes básicos,1671,12273300,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Desayuno y bebidas calientes,1014,14196300,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Lácteos y refrigerados,1582,11713800,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Aseo del hogar,1120,20627700,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Cuidado personal,977,9224000,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Bebé,465,12920000,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Bebidas,1513,11670700,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Panadería y galletas,1474,9046200,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Abarrotes básicos,1432,10336000,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Desayuno y bebidas calientes,916,12835800,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Lácteos y refrigerados,1431,10485900,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Aseo del hogar,988,18189700,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Cuidado personal,867,8294400,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Bebé,421,11384300,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Bebidas,1371,10553700,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Panadería y galletas,1282,7908300,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Abarrotes básicos,2743,20638700,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Desayuno y bebidas calientes,1723,24507900,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Lácteos y refrigerados,2737,20696500,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Aseo del hogar,1898,35500100,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Cuidado personal,1711,16772400,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Bebé,805,21782700,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Bebidas,2634,20589000,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Panadería y galletas,2553,16185300,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Abarrotes básicos,4897,37138300,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Desayuno y bebidas calientes,2690,39650000,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Lácteos y refrigerados,5390,41873300,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Aseo del hogar,3732,71190800,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Cuidado personal,3321,32800900,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Bebé,1581,43370700,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Bebidas,5038,40907200,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Panadería y galletas,4987,32288200,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Abarrotes básicos,1891,15896300,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Desayuno y bebidas calientes,1435,22903900,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Lácteos y refrigerados,2812,23613800,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Aseo del hogar,1833,38689700,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Cuidado personal,1572,16839400,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Bebé,756,22988400,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Bebidas,2421,21319200,0
+Últimos 30 días,2026-09-19,2026-10-18,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Panadería y galletas,2611,18225200,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Abarrotes básicos,1114,8352500,58
+Últimos 30 días,2026-09-19,2026-10-18,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Desayuno y bebidas calientes,1499,21328900,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Lácteos y refrigerados,2871,21604500,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Aseo del hogar,2031,38222700,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Cuidado personal,1723,16789000,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Bebé,853,23199500,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Bebidas,2667,20867600,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Panadería y galletas,2688,17020200,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Abarrotes básicos,2926,21729400,39
+Últimos 30 días,2026-09-19,2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Desayuno y bebidas calientes,2761,40707900,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Lácteos y refrigerados,5291,40729200,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Aseo del hogar,3735,71950500,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Cuidado personal,3241,32694900,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Bebé,1556,43783600,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Bebidas,5054,40760600,0
+Últimos 30 días,2026-09-19,2026-10-18,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Panadería y galletas,4977,32272100,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Abarrotes básicos,833,6420200,41
+Últimos 30 días,2026-09-19,2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Desayuno y bebidas calientes,709,9895200,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Lácteos y refrigerados,1440,10623500,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Aseo del hogar,971,17759100,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Cuidado personal,850,8041100,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Bebé,419,10901700,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Bebidas,1344,10362500,0
+Últimos 30 días,2026-09-19,2026-10-18,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Panadería y galletas,1302,8094800,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Abarrotes básicos,2748,20468000,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Desayuno y bebidas calientes,1420,20162600,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Lácteos y refrigerados,2782,21034000,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Aseo del hogar,1960,36866500,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Cuidado personal,1756,17139800,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Bebé,809,21583800,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Bebidas,2607,20399700,0
+Últimos 30 días,2026-09-19,2026-10-18,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Panadería y galletas,2562,16268600,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Abarrotes básicos,4845,36708900,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Desayuno y bebidas calientes,3048,44658200,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Lácteos y refrigerados,5376,41458200,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Aseo del hogar,3640,69526000,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Cuidado personal,3170,31526500,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Bebé,1507,41241700,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Bebidas,5045,40649900,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Panadería y galletas,4746,30848600,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Abarrotes básicos,4100,31561400,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Desayuno y bebidas calientes,2706,39400800,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Lácteos y refrigerados,4506,34978700,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Aseo del hogar,3208,61646200,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Cuidado personal,2799,28175600,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Bebé,1344,37369800,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Bebidas,4391,35961900,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Panadería y galletas,4217,27456700,0
+30 días anteriores,2026-08-20,2026-09-18,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Abarrotes básicos,2034,16832300,0
+30 días anteriores,2026-08-20,2026-09-18,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Desayuno y bebidas calientes,1827,28819300,0
+30 días anteriores,2026-08-20,2026-09-18,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Lácteos y refrigerados,3257,27113700,0
+30 días anteriores,2026-08-20,2026-09-18,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Aseo del hogar,1952,40246600,0
+30 días anteriores,2026-08-20,2026-09-18,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Cuidado personal,1809,19690700,0
+30 días anteriores,2026-08-20,2026-09-18,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Bebé,849,25692700,0
+30 días anteriores,2026-08-20,2026-09-18,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Bebidas,2667,23327600,0
+30 días anteriores,2026-08-20,2026-09-18,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Panadería y galletas,2926,20526100,0
+30 días anteriores,2026-08-20,2026-09-18,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Abarrotes básicos,2089,17599500,0
+30 días anteriores,2026-08-20,2026-09-18,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Desayuno y bebidas calientes,1813,29197400,0
+30 días anteriores,2026-08-20,2026-09-18,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Lácteos y refrigerados,3269,27426100,0
+30 días anteriores,2026-08-20,2026-09-18,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Aseo del hogar,2062,43066400,0
+30 días anteriores,2026-08-20,2026-09-18,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Cuidado personal,1755,19219300,0
+30 días anteriores,2026-08-20,2026-09-18,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Bebé,823,25442100,0
+30 días anteriores,2026-08-20,2026-09-18,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Bebidas,2780,24390100,0
+30 días anteriores,2026-08-20,2026-09-18,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Panadería y galletas,2958,20848800,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Abarrotes básicos,1530,11161200,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Desayuno y bebidas calientes,817,11503500,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Lácteos y refrigerados,1473,10812800,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Aseo del hogar,1055,19411900,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Cuidado personal,932,8944300,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Bebé,435,11795000,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Bebidas,1403,10822500,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Panadería y galletas,1317,8194400,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Abarrotes básicos,1596,11687700,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Desayuno y bebidas calientes,877,12282900,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Lácteos y refrigerados,1499,11123200,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Aseo del hogar,1005,18484000,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Cuidado personal,922,8903600,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Bebé,422,11393100,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Bebidas,1393,10770100,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Panadería y galletas,1364,8434400,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Abarrotes básicos,4006,30837100,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Desayuno y bebidas calientes,2621,39157700,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Lácteos y refrigerados,4515,35382400,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Aseo del hogar,3130,60071000,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Cuidado personal,2820,28275000,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Bebé,1330,36866000,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Bebidas,4292,34778800,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Panadería y galletas,4199,27406300,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Abarrotes básicos,1479,10829700,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Desayuno y bebidas calientes,780,10998300,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Lácteos y refrigerados,1386,10224200,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Aseo del hogar,981,18057200,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Cuidado personal,872,8285700,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Bebé,406,10433800,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Bebidas,1345,10390500,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Panadería y galletas,1291,8007300,0
+30 días anteriores,2026-08-20,2026-09-18,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Abarrotes básicos,4141,31483100,0
+30 días anteriores,2026-08-20,2026-09-18,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Desayuno y bebidas calientes,2583,37853900,0
+30 días anteriores,2026-08-20,2026-09-18,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Lácteos y refrigerados,4396,34306200,0
+30 días anteriores,2026-08-20,2026-09-18,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Aseo del hogar,3111,60191900,0
+30 días anteriores,2026-08-20,2026-09-18,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Cuidado personal,2743,27764700,0
+30 días anteriores,2026-08-20,2026-09-18,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Bebé,1317,37055300,0
+30 días anteriores,2026-08-20,2026-09-18,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Bebidas,4303,34872300,0
+30 días anteriores,2026-08-20,2026-09-18,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Panadería y galletas,4080,26555500,0
+30 días anteriores,2026-08-20,2026-09-18,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Abarrotes básicos,4188,32191500,0
+30 días anteriores,2026-08-20,2026-09-18,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Desayuno y bebidas calientes,2621,38845500,0
+30 días anteriores,2026-08-20,2026-09-18,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Lácteos y refrigerados,4679,35989600,0
+30 días anteriores,2026-08-20,2026-09-18,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Aseo del hogar,3251,62520900,0
+30 días anteriores,2026-08-20,2026-09-18,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Cuidado personal,2895,29154000,0
+30 días anteriores,2026-08-20,2026-09-18,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Bebé,1372,39102400,0
+30 días anteriores,2026-08-20,2026-09-18,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Bebidas,4472,36225200,0
+30 días anteriores,2026-08-20,2026-09-18,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Panadería y galletas,4374,28467000,0
+30 días anteriores,2026-08-20,2026-09-18,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Abarrotes básicos,2029,16671800,0
+30 días anteriores,2026-08-20,2026-09-18,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Desayuno y bebidas calientes,1764,28383200,0
+30 días anteriores,2026-08-20,2026-09-18,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Lácteos y refrigerados,3073,25703700,0
+30 días anteriores,2026-08-20,2026-09-18,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Aseo del hogar,1907,39557700,0
+30 días anteriores,2026-08-20,2026-09-18,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Cuidado personal,1727,18752500,0
+30 días anteriores,2026-08-20,2026-09-18,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Bebé,814,24611000,0
+30 días anteriores,2026-08-20,2026-09-18,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Bebidas,2682,23538800,0
+30 días anteriores,2026-08-20,2026-09-18,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Panadería y galletas,2795,19584600,0
+30 días anteriores,2026-08-20,2026-09-18,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Abarrotes básicos,1645,12100000,0
+30 días anteriores,2026-08-20,2026-09-18,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Desayuno y bebidas calientes,904,12688200,0
+30 días anteriores,2026-08-20,2026-09-18,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Lácteos y refrigerados,1589,11690700,0
+30 días anteriores,2026-08-20,2026-09-18,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Aseo del hogar,1117,20323000,0
+30 días anteriores,2026-08-20,2026-09-18,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Cuidado personal,964,9272100,0
+30 días anteriores,2026-08-20,2026-09-18,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Bebé,469,11992700,0
+30 días anteriores,2026-08-20,2026-09-18,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Bebidas,1504,11606400,0
+30 días anteriores,2026-08-20,2026-09-18,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Panadería y galletas,1460,9083100,0
+30 días anteriores,2026-08-20,2026-09-18,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Abarrotes básicos,1466,10617200,0
+30 días anteriores,2026-08-20,2026-09-18,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Desayuno y bebidas calientes,794,11218200,0
+30 días anteriores,2026-08-20,2026-09-18,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Lácteos y refrigerados,1404,10283800,0
+30 días anteriores,2026-08-20,2026-09-18,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Aseo del hogar,959,17475700,0
+30 días anteriores,2026-08-20,2026-09-18,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Cuidado personal,867,8324700,0
+30 días anteriores,2026-08-20,2026-09-18,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Bebé,393,10506900,0
+30 días anteriores,2026-08-20,2026-09-18,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Bebidas,1265,9744200,0
+30 días anteriores,2026-08-20,2026-09-18,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Panadería y galletas,1216,7498100,0
+30 días anteriores,2026-08-20,2026-09-18,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Abarrotes básicos,2736,20573800,0
+30 días anteriores,2026-08-20,2026-09-18,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Desayuno y bebidas calientes,1559,22483900,0
+30 días anteriores,2026-08-20,2026-09-18,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Lácteos y refrigerados,2732,20759000,0
+30 días anteriores,2026-08-20,2026-09-18,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Aseo del hogar,1838,34077600,0
+30 días anteriores,2026-08-20,2026-09-18,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Cuidado personal,1716,16711600,0
+30 días anteriores,2026-08-20,2026-09-18,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Bebé,794,21489500,0
+30 días anteriores,2026-08-20,2026-09-18,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Bebidas,2619,20600400,0
+30 días anteriores,2026-08-20,2026-09-18,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Panadería y galletas,2561,16258300,0
+30 días anteriores,2026-08-20,2026-09-18,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Abarrotes básicos,4820,37388900,0
+30 días anteriores,2026-08-20,2026-09-18,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Desayuno y bebidas calientes,2687,39226300,0
+30 días anteriores,2026-08-20,2026-09-18,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Lácteos y refrigerados,5343,41249800,0
+30 días anteriores,2026-08-20,2026-09-18,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Aseo del hogar,3743,71388700,0
+30 días anteriores,2026-08-20,2026-09-18,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Cuidado personal,3298,33126200,0
+30 días anteriores,2026-08-20,2026-09-18,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Bebé,1546,43700000,0
+30 días anteriores,2026-08-20,2026-09-18,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Bebidas,5074,40950400,0
+30 días anteriores,2026-08-20,2026-09-18,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Panadería y galletas,4734,30748500,0
+30 días anteriores,2026-08-20,2026-09-18,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Abarrotes básicos,1852,15430700,0
+30 días anteriores,2026-08-20,2026-09-18,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Desayuno y bebidas calientes,1443,22931300,0
+30 días anteriores,2026-08-20,2026-09-18,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Lácteos y refrigerados,2822,24026400,0
+30 días anteriores,2026-08-20,2026-09-18,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Aseo del hogar,1784,37057000,0
+30 días anteriores,2026-08-20,2026-09-18,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Cuidado personal,1471,15975300,0
+30 días anteriores,2026-08-20,2026-09-18,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Bebé,772,22884400,0
+30 días anteriores,2026-08-20,2026-09-18,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Bebidas,2445,21373600,0
+30 días anteriores,2026-08-20,2026-09-18,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Panadería y galletas,2579,18123000,0
+30 días anteriores,2026-08-20,2026-09-18,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Abarrotes básicos,2902,21434100,0
+30 días anteriores,2026-08-20,2026-09-18,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Desayuno y bebidas calientes,1417,20315100,0
+30 días anteriores,2026-08-20,2026-09-18,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Lácteos y refrigerados,2833,21168500,0
+30 días anteriores,2026-08-20,2026-09-18,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Aseo del hogar,1962,36624400,0
+30 días anteriores,2026-08-20,2026-09-18,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Cuidado personal,1781,17366200,0
+30 días anteriores,2026-08-20,2026-09-18,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Bebé,835,22224100,0
+30 días anteriores,2026-08-20,2026-09-18,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Bebidas,2707,21089400,0
+30 días anteriores,2026-08-20,2026-09-18,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Panadería y galletas,2628,16756600,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Abarrotes básicos,4721,35930300,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Desayuno y bebidas calientes,2678,39396200,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Lácteos y refrigerados,5257,40573600,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Aseo del hogar,3644,70111600,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Cuidado personal,3293,32856200,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Bebé,1561,43666700,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Bebidas,5093,41310700,0
+30 días anteriores,2026-08-20,2026-09-18,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Panadería y galletas,4973,32626200,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Abarrotes básicos,1433,10497500,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Desayuno y bebidas calientes,698,9836100,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Lácteos y refrigerados,1330,10007200,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Aseo del hogar,961,17657400,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Cuidado personal,870,8273600,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Bebé,411,10469300,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Bebidas,1316,10165200,0
+30 días anteriores,2026-08-20,2026-09-18,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Panadería y galletas,1275,7923300,0
+30 días anteriores,2026-08-20,2026-09-18,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Abarrotes básicos,2734,19932000,0
+30 días anteriores,2026-08-20,2026-09-18,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Desayuno y bebidas calientes,1387,19677900,0
+30 días anteriores,2026-08-20,2026-09-18,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Lácteos y refrigerados,2731,20149500,0
+30 días anteriores,2026-08-20,2026-09-18,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Aseo del hogar,1903,35672600,0
+30 días anteriores,2026-08-20,2026-09-18,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Cuidado personal,1632,15837200,0
+30 días anteriores,2026-08-20,2026-09-18,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Bebé,801,21317200,0
+30 días anteriores,2026-08-20,2026-09-18,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Bebidas,2613,20428900,0
+30 días anteriores,2026-08-20,2026-09-18,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Panadería y galletas,2555,16164600,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Abarrotes básicos,4736,36172700,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Desayuno y bebidas calientes,2634,38908000,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Lácteos y refrigerados,5204,40935800,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Aseo del hogar,3720,71256000,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Cuidado personal,3203,31944200,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Bebé,1500,42195600,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Bebidas,4909,39581100,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BOG-01,Éxito Bogotá Norte,Éxito,Bogotá,Panadería y galletas,4752,30932900,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Abarrotes básicos,4191,31986400,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Desayuno y bebidas calientes,2433,35959700,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Lácteos y refrigerados,4616,35819400,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Aseo del hogar,3192,61581800,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Cuidado personal,2843,28453700,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Bebé,1346,39087000,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Bebidas,4322,35011200,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BOG-02,Éxito Bogotá Occidente,Éxito,Bogotá,Panadería y galletas,4214,27345900,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Abarrotes básicos,2041,17106000,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Desayuno y bebidas calientes,1595,25456600,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Lácteos y refrigerados,3081,25911900,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Aseo del hogar,1944,40262600,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Cuidado personal,1731,18761100,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Bebé,840,25246600,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Bebidas,2667,23476600,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-BOG-01,Carulla Bogotá Chicó,Carulla,Bogotá,Panadería y galletas,2876,20280400,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Abarrotes básicos,2128,17393100,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Desayuno y bebidas calientes,1636,26188700,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Lácteos y refrigerados,3181,26555800,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Aseo del hogar,2034,42492600,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Cuidado personal,1808,19611600,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Bebé,840,25530000,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Bebidas,2783,24356500,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-BOG-02,Carulla Bogotá Usaquén,Carulla,Bogotá,Panadería y galletas,3022,21237300,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Abarrotes básicos,1537,10998700,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Desayuno y bebidas calientes,761,10759800,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Lácteos y refrigerados,1473,10856900,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Aseo del hogar,1042,19223000,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Cuidado personal,924,8701900,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Bebé,422,11597100,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Bebidas,1362,10483100,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BOG-01,Surtimax Bogotá Kennedy,Surtimax,Bogotá,Panadería y galletas,1330,8195700,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Abarrotes básicos,1554,11172300,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Desayuno y bebidas calientes,784,10963800,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Lácteos y refrigerados,1483,10940100,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Aseo del hogar,1009,18404400,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Cuidado personal,911,8650100,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Bebé,426,11218300,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Bebidas,1365,10523400,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BOG-02,Surtimax Bogotá Bosa,Surtimax,Bogotá,Panadería y galletas,1367,8447700,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Abarrotes básicos,4157,32124400,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Desayuno y bebidas calientes,2314,34003800,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Lácteos y refrigerados,4618,35727400,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Aseo del hogar,3115,60421500,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Cuidado personal,2836,28818400,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Bebé,1351,37305300,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Bebidas,4266,34639200,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BGA-01,Éxito Bucaramanga Cabecera,Éxito,Bucaramanga,Panadería y galletas,4132,26779400,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Abarrotes básicos,1478,10778000,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Desayuno y bebidas calientes,689,9673800,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Lácteos y refrigerados,1362,10064700,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Aseo del hogar,1002,18409100,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Cuidado personal,834,8110700,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Bebé,433,11687900,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Bebidas,1317,10179200,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BGA-01,Surtimax Bucaramanga Centro,Surtimax,Bucaramanga,Panadería y galletas,1256,7825200,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Abarrotes básicos,4025,31241700,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Desayuno y bebidas calientes,2220,32332800,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Lácteos y refrigerados,4399,33654200,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Aseo del hogar,3129,60924100,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Cuidado personal,2700,27195500,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Bebé,1319,36877700,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Bebidas,4338,34972400,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-MDE-01,Éxito Medellín Poblado,Éxito,Medellín,Panadería y galletas,4089,26603300,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Abarrotes básicos,4198,32176500,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Desayuno y bebidas calientes,2471,36609900,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Lácteos y refrigerados,4758,36961000,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Aseo del hogar,3233,62415700,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Cuidado personal,2879,28610600,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Bebé,1366,37664400,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Bebidas,4373,35359300,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-MDE-02,Éxito Medellín Laureles,Éxito,Medellín,Panadería y galletas,4341,28198800,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Abarrotes básicos,1967,16276800,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Desayuno y bebidas calientes,1531,24392100,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Lácteos y refrigerados,3040,25310600,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Aseo del hogar,1905,39425900,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Cuidado personal,1673,18125300,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Bebé,809,24251900,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Bebidas,2614,22961200,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-MDE-01,Carulla Medellín Provenza,Carulla,Medellín,Panadería y galletas,2825,19763800,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Abarrotes básicos,1646,11718800,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Desayuno y bebidas calientes,806,11277300,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Lácteos y refrigerados,1598,11779300,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Aseo del hogar,1092,20021100,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Cuidado personal,966,9260900,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Bebé,452,11851600,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Bebidas,1483,11386500,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-MDE-01,Surtimax Medellín Belén,Surtimax,Medellín,Panadería y galletas,1448,8876700,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Abarrotes básicos,1431,10266000,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Desayuno y bebidas calientes,711,9917400,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Lácteos y refrigerados,1365,10053400,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Aseo del hogar,975,17663300,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Cuidado personal,834,7947400,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Bebé,408,11086900,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Bebidas,1248,9611000,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-MDE-02,Surtimax Medellín Robledo,Surtimax,Medellín,Panadería y galletas,1288,7947600,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Abarrotes básicos,2665,19683300,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Desayuno y bebidas calientes,1352,19424200,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Lácteos y refrigerados,2743,20508500,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Aseo del hogar,1868,34432600,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Cuidado personal,1673,16373600,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Bebé,799,21200500,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Bebidas,2622,20522900,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-PEI-01,Super Inter Pereira Centro,Super Inter,Pereira,Panadería y galletas,2514,15842200,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Abarrotes básicos,4810,36660200,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Desayuno y bebidas calientes,2562,37487800,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Lácteos y refrigerados,5152,39936900,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Aseo del hogar,3682,70768800,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Cuidado personal,3300,33135500,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Bebé,1573,44562500,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Bebidas,5095,41370100,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-CLO-01,Éxito Cali Sur,Éxito,Cali,Panadería y galletas,4806,31311100,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Abarrotes básicos,1885,15608700,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Desayuno y bebidas calientes,1334,21107200,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Lácteos y refrigerados,2809,23493100,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Aseo del hogar,1748,36228800,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Cuidado personal,1566,17090600,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Bebé,762,22771200,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Bebidas,2451,21467800,0
+Primeros 30 días,2026-07-21,2026-08-19,CA-CLO-01,Carulla Cali Granada,Carulla,Cali,Panadería y galletas,2569,17982300,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Abarrotes básicos,2913,21669400,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Desayuno y bebidas calientes,1319,18588500,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Lácteos y refrigerados,2826,21327000,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Aseo del hogar,1966,37048200,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Cuidado personal,1774,17319400,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Bebé,816,21992500,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Bebidas,2715,21326000,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-CLO-01,Super Inter Cali Centro,Super Inter,Cali,Panadería y galletas,2608,16559900,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Abarrotes básicos,4827,37622400,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Desayuno y bebidas calientes,2562,37485800,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Lácteos y refrigerados,5390,41537800,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Aseo del hogar,3697,71136300,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Cuidado personal,3276,32897900,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Bebé,1514,42860200,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Bebidas,5148,41766400,0
+Primeros 30 días,2026-07-21,2026-08-19,EX-BAQ-01,Éxito Barranquilla Norte,Éxito,Barranquilla,Panadería y galletas,4887,31870700,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Abarrotes básicos,1393,10191700,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Desayuno y bebidas calientes,632,8827200,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Lácteos y refrigerados,1337,9793000,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Aseo del hogar,986,18105200,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Cuidado personal,827,7821100,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Bebé,382,10224600,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Bebidas,1321,10141400,0
+Primeros 30 días,2026-07-21,2026-08-19,SM-BAQ-01,Surtimax Barranquilla Centro,Surtimax,Barranquilla,Panadería y galletas,1274,7859600,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Abarrotes básicos,2706,20316900,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Desayuno y bebidas calientes,1340,19291400,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Lácteos y refrigerados,2690,20160000,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Aseo del hogar,1908,35908600,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Cuidado personal,1691,16427400,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Bebé,791,22049000,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Bebidas,2531,20018500,0
+Primeros 30 días,2026-07-21,2026-08-19,SI-BAQ-01,Super Inter Barranquilla Sur,Super Inter,Barranquilla,Panadería y galletas,2494,15879000,0

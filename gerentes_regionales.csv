@@ -1,0 +1,4 @@
+zona_operativa,id_gerente_regional,cargo,correo_gerente_regional,ciudades
+Centro-Oriente,GR-01,Gerente regional Centro-Oriente,gerente.regional.centrooriente@exito-lab.example,"Bogotá, Bucaramanga"
+Antioquia-Eje Cafetero,GR-02,Gerente regional Antioquia-Eje Cafetero,gerente.regional.antioquiaeje@exito-lab.example,"Medellín, Pereira"
+Caribe-Pacífico,GR-03,Gerente regional Caribe-Pacífico,gerente.regional.caribepacifico@exito-lab.example,"Barranquilla, Cali"
